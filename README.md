@@ -13,3 +13,5 @@
 - M.A., [Graduate Institute of Linguistics](https://linguistics.ntu.edu.tw/), National Taiwan University, Taipei, Taiwan
 
 - B.A., [Department of Foreign Languages & Literatures](https://www.forex.ntu.edu.tw/?lang=en), National Taiwan University, Taipei, Taiwan
+
+- S.Kom
