@@ -14,4 +14,4 @@
 
 - B.A., [Department of Foreign Languages & Literatures](https://www.forex.ntu.edu.tw/?lang=en), National Taiwan University, Taipei, Taiwan
 
-- S.Kom [Sarjana KOmputer]
+- S.Kom [Sarjana Komputer] Univeritas 
