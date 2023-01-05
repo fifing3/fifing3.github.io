@@ -3,9 +3,9 @@
 ---
 ## Education
 
-<img width="150" height="150" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/rice.png">
-<img width="150" height="150" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/ntu.jpg">
+<img width="150" height="150" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/unhan.png">
+<img width="150" height="150" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/udb.png">
 
-- M.Han., [Department of Remote Sensing Technology](https://linguistics.ntu.edu.tw/), Indonesia Defense University, Bogor - Indonesia 2020
+- M.Han., [Department of Remote Sensing Technology](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2020
 
-- S.Kom, [Department of Information System](https://www.forex.ntu.edu.tw/?lang=en), Duta Bangsa University, Surakarta - Indonesia 2017
+- S.Kom, [Department of Information System](https://udb.ac.id/), Duta Bangsa University, Surakarta - Indonesia 2017
