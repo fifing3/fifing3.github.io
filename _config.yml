@@ -1,5 +1,5 @@
 title: Your Name  # your name (or website title) here
-<img width="150" height="150" src= "/images/fing.jpg?raw=true"> # your photo (or logo) here
+logo: "/images/fing.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Hi there! My name is Fifing, don't ask me why. I'm a technology enthusiast.

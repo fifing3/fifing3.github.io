@@ -6,8 +6,8 @@
 <img width="150" height="150" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/unhan.png">
 <img width="150" height="150" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/udb.png">
 
-- M.Han., [Department of Remote Sensing Technology](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2020
-- S.Kom, [Department of Information System](https://udb.ac.id/), Duta Bangsa University, Surakarta - Indonesia 2017
+- M. Han., [Department of Remote Sensing Technology](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2020
+- S. Kom., [Department of Information System](https://udb.ac.id/), Duta Bangsa University, Surakarta - Indonesia 2017
 
 ## Informal Education 
 
@@ -17,7 +17,8 @@
 <img width="150" height="150" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
 
 
-- Overseas Study Program  [The People's Liberation Army National Defence University](https://www.ndu.edu/), National Military University, Beijing - China 2019
-- Overseas Study Program, [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing Institute of Technology, Beijing - China 2019
+- Overseas Study Program  [The People's Liberation Army National Defence University](https://www.ndu.edu/), National Military University, Beijing, Tiongkok 2019
+- Overseas Study Program, [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing Institute of Technology, Beijing, Tiongkok 2019
+- Research of Technology Defense, [China Electronics Technology Group Corporation](http://en.cetc.com.cn/), State Owned Enterprise of China, Beijing, Tiongkok 2019
 - TOEFL Certificate [Preparation Course The TOEFL Test](https://www.lia.co.id/), LBPP LIA, Surakarta - Indonesia 2018
 - English Camp [One Month English Course](https://kampunginggrissolo.com/), Kampung Inggris Solo, Surakarta - Indonesia 2018
