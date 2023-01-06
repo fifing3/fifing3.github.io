@@ -14,10 +14,12 @@
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/ptdi.png">
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/pla.png">
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/bit.png">
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/cetc.png">
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/norinco.png">
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/lia.png">
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
 
-- Study Visit [Indonesian Aircraft Industries](https://www.indonesian-aerospace.com/), Indonesian Aircraft Industries, Bandung - Indonesia 2019
+- Study Visit [PT Len Industri (Persero)](https://www.len.co.id/), PT Len Industri (Persero), Bandung - Indonesia 2019
 - Study Visit [Indonesian Aircraft Industries](https://www.indonesian-aerospace.com/), Indonesian Aircraft Industries, Bandung - Indonesia 2019
 - Overseas Study Program  [The People's Liberation Army National Defence University](https://www.ndu.edu/), National Military University, Beijing - Tiongkok 2019
 - Overseas Study Program, [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing Institute of Technology, Beijing - Tiongkok 2019
