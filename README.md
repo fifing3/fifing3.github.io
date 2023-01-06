@@ -10,6 +10,9 @@
 - S. Kom., [Department of Information System](https://udb.ac.id/), Duta Bangsa University, Surakarta - Indonesia 2017
 
 ## Informal Education 
+
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/btech.png">
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/digitaltalent.png">
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/ptlen.png">
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/ptdi.png">
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/pla.png">
@@ -19,6 +22,8 @@
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/lia.png">
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
 
+- IT Associate [Certificate IT Associate)](https://btech.id/), PT Boer Technology (Btech) , Bogor - Indonesia 2022
+- Digital Talent [Program Fresh Graduate Academy Digital Talent Scholarship (FGA DTS)](https://digitalent.kominfo.go.id/), Ministry of Communications and Informatics (MCI) , Jakarta - Indonesia 2020
 - Study Visit [PT Len Industri (Persero)](https://www.len.co.id/), PT Len Industri (Persero), Bandung - Indonesia 2019
 - Study Visit [Indonesian Aircraft Industries](https://www.indonesian-aerospace.com/), Indonesian Aircraft Industries, Bandung - Indonesia 2019
 - Overseas Study Program  [The People's Liberation Army National Defence University](https://www.ndu.edu/), National Military University, Beijing - Tiongkok 2019
