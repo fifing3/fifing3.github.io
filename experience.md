@@ -11,9 +11,13 @@
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
 <img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
 
-- Junior Programming [Octave Technology](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2020
-- M. Han., [Department of Remote Sensing Technology](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2020
-- M. Han., [Department of Remote Sensing Technology](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2020
+- Junior Programming [Octave Technology](https://fifing3.github.io/), Octave Technology, Surakarta - Indonesia 2014
+- IT Support [Watershed Management Technology Center (WMTC)](http://ppid.menlhk.go.id/), The Ministry of Environment and Forestry of the Republic of Indonesia, Sukoharjo - Indonesia 2015
+- IT Staff [Dipa Computer)](https://fifing3.github.io/), Dipa Computer, Sukoharjo - Indonesia 2015
+- Research and Development [Technology Study Center)](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2018
+- 
+
+
 
 
 <!-- Remove above link if you don't want to attibute 
