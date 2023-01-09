@@ -4,29 +4,19 @@
 ## Research
 
 - [Keywords](#keywords)
-- [M.Han Thesis](#phd-dissertation)
-- [S.Kom Skripsi](#ma-thesis)
+- [Master's Degrees](#phd-dissertation)
+- [Bachelor's Degree](#ma-thesis)
 - [Publications](#publications)
 
 ---
-### Keywords
-[linguistic typology](https://en.wikipedia.org/wiki/Linguistic_typology) | [discourse analysis](https://en.wikipedia.org/wiki/Discourse_analysis) | [nominalization](https://en.wikipedia.org/wiki/Nominalization) | [demonstrative](https://en.wikipedia.org/wiki/Demonstrative) | [clitic](https://en.wikipedia.org/wiki/Clitic)  | [Formosan languages](https://en.wikipedia.org/wiki/Formosan_languages)   
-
----
-### Postdoc Report
-Jiang, Haowen. 2019. *A typological study of plural expressions: Associative plurals and inclusory constructions in Austronesian languages of Taiwan* (in Chinese). Beijing: Peking University. [pdf](https://howard-haowen.github.io/pdf/Jiang2019_Associative-plurals-and-inclusory-constructions-in-Formosan.pdf) 
-
-- Funded by [Chinese Postdoctoral Science Foundation](http://english.chinapostdoctor.org.cn/fund/fund.html) ([Batch No. 64, Grant No. 2018M641047](http://bsh.sxu.edu.cn/docs//2018-12/beb8c3196f9f4352af0cd57a9336f9f0.pdf))
-
----
-### PhD Dissertation
+### Master's Degrees
 Jiang, Haowen. 2016. *Nominalization and possession in Formosan languages*. Houston, TX: Rice University. [pdf](https://howard-haowen.github.io/pdf/Jiang2016_Nominalization-and-possession-in-Formosan-languages.pdf) 
 
 - Funded by [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en?set_language=en) ([Year 2012](http://www.cckf.org/zh/about/publication/newsletter/201308))
 - Archived at [Rice Digital Scholarship Archive](https://scholarship.rice.edu/handle/1911/95553)
 
 ---
-### MA Thesis
+### Bachelor's Degree
 Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National Taiwan University. [pdf](https://howard-haowen.github.io/pdf/Jiang2006_Spatial-conceptualizations-in-Kavalan.pdf)
 
 ---

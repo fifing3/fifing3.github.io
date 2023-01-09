@@ -14,7 +14,6 @@
 
 - IT Staff [Dipa Computer)](https://fifing3.github.io/), Dipa Computer, Sukoharjo - Indonesia 2015
 - Research and Development [Technology Study Center)](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2018
-- J
 - IT Support [Watershed Management Technology Center (WMTC)](http://ppid.menlhk.go.id/), The Ministry of Environment and Forestry of the Republic of Indonesia, Sukoharjo - Indonesia 2015
 - Junior Programming [Octave Technology](https://fifing3.github.io/), Octave Technology, Surakarta - Indonesia 2014
 
