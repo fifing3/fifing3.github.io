@@ -27,7 +27,7 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 - Fifing. 2018."Judul Penelitian" , [*1st POLYTEXPO. International Polytechnic Conference and Exhibition*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Malang: State Polytechnic of Malang.
 
-- Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020."Refugee Based Data Collection In Disaster Response" , [*1st POLYTEXPO. International Polytechnic Conference and Exhibition*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Malang: State Polytechnic of Malang.
+- Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020."Refugee Based Data Collection In Disaster Response" , [*Journal of Defense*](https://jurnal.idu.ac.id/index.php/DefenseJournal/article/view/640/lulupdf), Vol.6 No.2, DOI: http://dx.doi.org/10.33172/jp.v6i2.640, 184-187. Bogor: Indonesia Defense University.
 
 
 
@@ -38,9 +38,9 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 ---
 ## Manuscript
-- Fifing. 2019. e-Learning Guidebook for Students.[pdf] (https://fifing3.github.io/pdf/e-learning-for-student.pdf)
+- Fifing. 2019. e-Learning Guidebook for Students.[pdf](https://fifing3.github.io/pdf/e-learning-for-student.pdf)
 
-- Fifing. 2022.  Guidebook for Students.[pdf] (https://fifing3.github.io/pdf/e-learning-for-student.pdf)
+- Fifing. 2022.  Guidebook for Students.[pdf](https://fifing3.github.io/pdf/e-learning-for-student.pdf)
 
 
 ---
