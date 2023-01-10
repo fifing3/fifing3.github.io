@@ -29,6 +29,8 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 - Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020."Refugee Based Data Collection In Disaster Response" , [*1st POLYTEXPO. International Polytechnic Conference and Exhibition*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Malang: State Polytechnic of Malang.
 
+
+
 - Haowen Jiang. 2020. Ways of talking about the past The semantics of -*in*- and =*in* in Bunun. In Henry Y. Chang & Hui-chuan J. Huang (eds.), [*Papers from the Austronesian Formal Linguistics Association 25 (JSEALS Special Publication No. 5)*](https://uhpress.hawaii.edu/journal-of-the-southeast-asian-linguistics-society-papers-from-the-austronesian-formal-linguistics-association-25/), 1-21. Honolulu: University of Hawai'i Press. [pdf](https://howard-haowen.github.io/pdf/Chen-Jiang2020.pdf)
 
 - Jiang, Haowen. 2013. Appearances are not skin deep: On the status of *de yangzi*  as an inferential marker in colloquial Mandarin discourse. *Chinese Language and Discourse* 4(1): 35-73. [John Benjamins](https://www.jbe-platform.com/content/journals/10.1075/cld.4.1.02jia)
@@ -36,8 +38,10 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 ---
 ## Manuscript
-Jiang, Haowen. 2010. Malayalam: A grammatical sketch and a text. [pdf](https://howard-haowen.github.io/pdf/Jiang2010_Malayalam-a-grammatical-sketch-and-a-tex.pdf)
-- Archived at [Semantic Scholar](https://www.semanticscholar.org/paper/Malayalam-%3A-a-Grammatical-Sketch-and-a-Text-Jiang/ca79adbc32e4cadcb07887dc7534583c760c8161)
+- Fifing. 2019. e-Learning Guidebook for Students.[pdf] (https://fifing3.github.io/pdf/e-learning-for-student.pdf)
+
+- Fifing. 2022.  Guidebook for Students.[pdf] (https://fifing3.github.io/pdf/e-learning-for-student.pdf)
+
 
 ---
 [Back to top](#)
