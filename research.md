@@ -21,15 +21,14 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 ---
 ### Publications
-- Fifing. 2017. Remote Sensing Application for Monitoring Illegal Logging Practices and Forest Land Change (Case Study: Blora District Forest), [*GEOTIK 1: The Proceedings of the 1st National Geotik Seminar "The Role of Information Technology and Geography in Achieving National Resilience"*](https://publikasiilmiah.ums.ac.id/bitstream/handle/11617/9090/geotik2017_15.pdf?sequence=1&isAllowed=y),  ISSN:2580-8796, 117-122. Surakarta: Muhammadiyah Surakarta University.
+- Fifing. 2017. Remote Sensing Application for Monitoring Illegal Logging Practices and Forest Land Change (Case Study: Blora District Forest), [*GEOTIK 1: The Proceedings of the 1st National Geotik Seminar "The Role of Information Technology and Geography in Achieving National Resilience"*](https://publikasiilmiah.ums.ac.id/bitstream/handle/11617/9090/geotik2017_15.pdf?sequence=1&isAllowed=y),  ISSN:2580-8796, 117-122. Surakarta: Muhammadiyah University of Surakarta (UMS).
+
+- Fifing, Rudy A. G. Gultom, Boby M. Pratama & Garnis Anggraeni. 2018. Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng, [*2nd Borneo International. Conference on Applied. Mathematics and Engineering. (BICAME 2018)*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Balikpapan: Borneo Institute of Technology.
+
 
 - Haowen Jiang. 2020. Ways of talking about the past The semantics of -*in*- and =*in* in Bunun. In Henry Y. Chang & Hui-chuan J. Huang (eds.), [*Papers from the Austronesian Formal Linguistics Association 25 (JSEALS Special Publication No. 5)*](https://uhpress.hawaii.edu/journal-of-the-southeast-asian-linguistics-society-papers-from-the-austronesian-formal-linguistics-association-25/), 1-21. Honolulu: University of Hawai'i Press. [pdf](https://howard-haowen.github.io/pdf/Chen-Jiang2020.pdf)
 
-- Jiang, Haowen & [Loren Billings](https://scholar.google.com/citations?user=fMjt40kAAAAJ&hl=en). 2015. Person-based ordering of pronominal clitics in Rikavung Puyuma: An inverse analysis. In Amber Camp, Yuko Otsuka, Claire Stabile & Nozomi Tanaka (eds.), [*AFLA 21: The Proceedings of the 21st Meeting of the Austronesian Formal Linguistics Association (Asia-Pacific Linguistics 25)*](https://openresearch-repository.anu.edu.au/handle/1885/95329), 87–106. Canberra: Australian National University. [pdf](https://howard-haowen.github.io/pdf/Jiang-Billings2015.pdf) 
-
 - Jiang, Haowen. 2013. Appearances are not skin deep: On the status of *de yangzi*  as an inferential marker in colloquial Mandarin discourse. *Chinese Language and Discourse* 4(1): 35-73. [John Benjamins](https://www.jbe-platform.com/content/journals/10.1075/cld.4.1.02jia)
-
-- Jiang, Haowen. 2009b. How can Cognitive Linguistics help us with second language acquisition? A case study of the Russian motion verb idti. In Evan Ashworth, Melvatha Chee, Grandon Goertz & Brittany Kubacki (eds.), *Proceedings of the 8th High Desert Linguistics Society Conference (HDLS-8)*, 40–60. Albuquerque: High Desert Linguistics Society. [pdf](https://howard-haowen.github.io/pdf/Jiang2009_A-case-study-of-the-Russian-Motion-verb-IDTI.pdf)
 
 
 ---
