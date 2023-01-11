@@ -21,13 +21,19 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 ---
 ### Publications
-- Fifing. 2017. Remote Sensing Application for Monitoring Illegal Logging Practices and Forest Land Change (Case Study: Blora District Forest), [*1st GEOTIK: The Proceedings of National Geotik Seminar "The Role of Information Technology and Geography in Achieving National Resilience"*](https://publikasiilmiah.ums.ac.id/bitstream/handle/11617/9090/geotik2017_15.pdf?sequence=1&isAllowed=y),  ISSN:2580-8796, 117-122. Surakarta: Muhammadiyah University of Surakarta (UMS).
+- Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020."Refugee Based Data Collection In Disaster Response" , [*Journal of Defense*](https://jurnal.idu.ac.id/index.php/DefenseJournal/article/view/640/lulupdf), Vol.6 No.2, DOI: http://dx.doi.org/10.33172/jp.v6i2.640, 184-187. Bogor: Indonesia Defense University.
+
+- Fifing. 2019. Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng, [*2nd Borneo International. Conference on Applied. Mathematics and Engineering. (BICAME 2018)*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Balikpapan: Borneo Institute of Technology.
 
 - Fifing, Rudy A. G. Gultom, Boby M. Pratama & Garnis Anggraeni. 2018. Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng, [*2nd Borneo International. Conference on Applied. Mathematics and Engineering. (BICAME 2018)*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Balikpapan: Borneo Institute of Technology.
 
+- Fifing. 2017. Remote Sensing Application for Monitoring Illegal Logging Practices and Forest Land Change (Case Study: Blora District Forest), [*1st GEOTIK: The Proceedings of National Geotik Seminar "The Role of Information Technology and Geography in Achieving National Resilience"*](https://publikasiilmiah.ums.ac.id/bitstream/handle/11617/9090/geotik2017_15.pdf?sequence=1&isAllowed=y),  ISSN:2580-8796, 117-122. Surakarta: Muhammadiyah University of Surakarta (UMS).
+
+
+
 - Fifing. 2018."Judul Penelitian" , [*1st POLYTEXPO. International Polytechnic Conference and Exhibition*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Malang: State Polytechnic of Malang.
 
-- Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020."Refugee Based Data Collection In Disaster Response" , [*Journal of Defense*](https://jurnal.idu.ac.id/index.php/DefenseJournal/article/view/640/lulupdf), Vol.6 No.2, DOI: http://dx.doi.org/10.33172/jp.v6i2.640, 184-187. Bogor: Indonesia Defense University.
+
 
 
 
