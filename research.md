@@ -23,7 +23,9 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 ### Publications
 - Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020."Refugee Based Data Collection In Disaster Response" , [*Journal of Defense*](https://jurnal.idu.ac.id/index.php/DefenseJournal/article/view/640/lulupdf), Vol.6 No.2, DOI: http://dx.doi.org/10.33172/jp.v6i2.640, 184-187. Bogor: Indonesia Defense University.
 
-- Fifing. 2019. Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng, [*2nd Borneo International. Conference on Applied. Mathematics and Engineering. (BICAME 2018)*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Balikpapan: Borneo Institute of Technology.
+- Fifing, Hanum Shirotu Nida, Adib Hermawan. 2019. Monitoring water surface changes of wetlands using Fuzzy K-Means Algorithm with Sentinel-1 SAR Data, [*THE 6TH ANNUAL SCIENTIFIC MEETING ON DISASTER RESEARCH 2019*](https://fifing3.github.io/pdf/icdm1.pdf), ISSN 978-602-5808-43-2, 331-339. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University.
+
+- Fifing. 2019. , [*THE 6TH ANNUAL SCIENTIFIC MEETING ON DISASTER RESEARCH 2019*](https://fifing3.github.io/pdf/icdm1.pdf), ISSN 978-602-5808-43-2, 331-339. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University.
 
 - Fifing, Rudy A. G. Gultom, Boby M. Pratama & Garnis Anggraeni. 2018. Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng, [*2nd Borneo International. Conference on Applied. Mathematics and Engineering. (BICAME 2018)*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Balikpapan: Borneo Institute of Technology.
 

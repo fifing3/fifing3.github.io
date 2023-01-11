@@ -14,8 +14,8 @@
 - IT Specialists [Yayasan Minjaul Haq](https://minhajulhaq.sch.id/), Purwakarta - Indonesia, 2022
 - Research and Development [Technology Study Center](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2020
 - Freelance Web Development [Universitas Duta Bangsa](https://udb.ac.id/), Surakarta - Indonesia, 2017
-- Staff Administrasi [https://fifing3.github.io/](Ritel Minimarket), Surakarta - Indonesia, 2016
-- IT Staff [Dipa Computer)](https://fifing3.github.io/), Dipa Computer, Sukoharjo - Indonesia 2015
+- Staff Administrasi [Ritel Minimarket](https://fifing3.github.io/), Surakarta - Indonesia, 2016
+- IT Staff [Dipa Computer](https://fifing3.github.io/), Dipa Computer, Sukoharjo - Indonesia 2015
 - IT Support [Watershed Management Technology Center (WMTC)](http://ppid.menlhk.go.id/), The Ministry of Environment and Forestry of the Republic of Indonesia, Sukoharjo - Indonesia 2015
 - Junior Programming [Octave Technology](https://fifing3.github.io/), Octave Technology, Surakarta - Indonesia 2014
 
