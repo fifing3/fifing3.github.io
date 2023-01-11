@@ -21,11 +21,13 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 ---
 ### Publications
-- Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020."Refugee Based Data Collection In Disaster Response" , [*Journal of Defense*](https://jurnal.idu.ac.id/index.php/DefenseJournal/article/view/640/lulupdf), Vol.6 No.2, DOI: http://dx.doi.org/10.33172/jp.v6i2.640, 184-187. Bogor: Indonesia Defense University.
+- Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020. Refugee Based Data Collection In Disaster Response, [*Journal of Defense*](https://jurnal.idu.ac.id/index.php/DefenseJournal/article/view/640/lulupdf), Vol.6 No.2, DOI: http://dx.doi.org/10.33172/jp.v6i2.640, 184-187. Bogor: Indonesia Defense University.
 
-- Fifing, Hanum Shirotu Nida, Adib Hermawan. 2019. Monitoring water surface changes of wetlands using Fuzzy K-Means Algorithm with Sentinel-1 SAR Data, [*THE 6TH ANNUAL SCIENTIFIC MEETING ON DISASTER RESEARCH 2019*](https://fifing3.github.io/pdf/icdm1.pdf), ISSN 978-602-5808-43-2, 331-339. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University.
+- Fifing. 2019. , [*Proceedings of Geodiversity National Seminar on Earth Sciences*](https://fifing3.github.io/pdf/icdm1.pdf), ISSN 978-602-5808-43-2, 331-339. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University (IDU).
 
-- Fifing, Ferry D Batu Bara, Rizky Amelia and Bita Parga Zen. 2019. Indonesia Disaster Watch With Satellite Imagery, [*THE 6TH ANNUAL SCIENTIFIC MEETING ON DISASTER RESEARCH 2019*](https://fifing3.github.io/pdf/icdm2.pdf), ISSN 978-602-5808-43-2, 269-276. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University.
+- Fifing, Hanum Shirotu Nida, Adib Hermawan. 2019. Monitoring water surface changes of wetlands using Fuzzy K-Means Algorithm with Sentinel-1 SAR Data, [*The 6th Annual Scientific Meeting On Disaster Research 2019*](https://fifing3.github.io/pdf/icdm1.pdf), ISSN 978-602-5808-43-2, 331-339. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University (IDU).
+
+- Fifing, Ferry D Batu Bara, Rizky Amelia and Bita Parga Zen. 2019. Indonesia Disaster Watch With Satellite Imagery, [*The 6th Annual Scientific Meeting On Disaster Research 2019*](https://fifing3.github.io/pdf/icdm2.pdf), ISSN 978-602-5808-43-2, 269-276. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University(IDU).
 
 - Fifing, Rudy A. G. Gultom, Boby M. Pratama & Garnis Anggraeni. 2018. Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng, [*2nd Borneo International. Conference on Applied. Mathematics and Engineering. (BICAME 2018)*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Balikpapan: Borneo Institute of Technology.
 
@@ -35,20 +37,11 @@ Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National T
 
 - Fifing. 2018."Judul Penelitian" , [*1st POLYTEXPO. International Polytechnic Conference and Exhibition*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Malang: State Polytechnic of Malang.
 
-
-
-
-
-- Haowen Jiang. 2020. Ways of talking about the past The semantics of -*in*- and =*in* in Bunun. In Henry Y. Chang & Hui-chuan J. Huang (eds.), [*Papers from the Austronesian Formal Linguistics Association 25 (JSEALS Special Publication No. 5)*](https://uhpress.hawaii.edu/journal-of-the-southeast-asian-linguistics-society-papers-from-the-austronesian-formal-linguistics-association-25/), 1-21. Honolulu: University of Hawai'i Press. [pdf](https://howard-haowen.github.io/pdf/Chen-Jiang2020.pdf)
-
-- Jiang, Haowen. 2013. Appearances are not skin deep: On the status of *de yangzi*  as an inferential marker in colloquial Mandarin discourse. *Chinese Language and Discourse* 4(1): 35-73. [John Benjamins](https://www.jbe-platform.com/content/journals/10.1075/cld.4.1.02jia)
-
-
 ---
 ## Manuscript
-- Fifing. 2019. e-Learning Guidebook for Students.[pdf](https://fifing3.github.io/pdf/e-learning-for-student.pdf)
+- Fifing. 2019. e-Learning Guidebook for Students.[pdf](https://fifing3.github.io/pdf/e-learning-for-student.pdf), Yayasan Minhajul Haq. Purwakarta - Indonesia
 
-- Fifing. 2022.  Guidebook for Students.[pdf](https://fifing3.github.io/pdf/e-learning-for-student.pdf)
+- Fifing. 2022. Guidebook for Admin.[pdf](https://fifing3.github.io/pdf/e-learning-for-student.pdf), PT Hanjaya Mandala Sampoerna Tbk. Jakarta - Indonesia
 
 
 ---
