@@ -2,20 +2,19 @@
 
 ---
 ## Experience
-<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
-<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
-<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
-<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
-<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
-<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
-<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
-<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/inggris.png">
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/sampoerna.png">
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/mh.png">
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/udb.png">
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/tekin.png">
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/klh.png">
+<img width="100" height="100" src="https://github.com/fifing3/fifing3.github.io/raw/master/images/octave.png">
+
 
 - IT Database Administrator [PT Hanjaya Mandala Sampoerna Tbk](https://www.sampoerna.com/), Jakarta - Indonesia, Present
 - IT Specialists [Yayasan Minjaul Haq](https://minhajulhaq.sch.id/), Purwakarta - Indonesia, 2022
 - Research and Development [Technology Study Center](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2020
-- Freelance Penulisan Skripsi
-- Staff Administrasi [](), Surakarta - Indonesia, 2016
+- Freelance Web Development [Universitas Duta Bangsa](https://udb.ac.id/), Surakarta - Indonesia, 2017
+- Staff Administrasi [https://fifing3.github.io/](Ritel Minimarket), Surakarta - Indonesia, 2016
 - IT Staff [Dipa Computer)](https://fifing3.github.io/), Dipa Computer, Sukoharjo - Indonesia 2015
 - IT Support [Watershed Management Technology Center (WMTC)](http://ppid.menlhk.go.id/), The Ministry of Environment and Forestry of the Republic of Indonesia, Sukoharjo - Indonesia 2015
 - Junior Programming [Octave Technology](https://fifing3.github.io/), Octave Technology, Surakarta - Indonesia 2014
