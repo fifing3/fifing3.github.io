@@ -2,7 +2,6 @@
 
 ---
 ## Certificates
-- Fifing. 2022. Guidebook for Admin HMS RODD.[pdf](https://fifing3.github.io/pdf/Guide-Book-HMS-RODD.pdf), PT Hanjaya Mandala Sampoerna Tbk. Jakarta - Indonesia
-
+ON GOING CERTIFICATES
 ---
 [Back to top](#)
