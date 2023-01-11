@@ -10,26 +10,27 @@
 
 ---
 ### Master's Degrees
-Jiang, Haowen. 2016. *Nominalization and possession in Formosan languages*. Houston, TX: Rice University. [pdf](https://howard-haowen.github.io/pdf/Jiang2016_Nominalization-and-possession-in-Formosan-languages.pdf) 
-
-- Funded by [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en?set_language=en) ([Year 2012](http://www.cckf.org/zh/about/publication/newsletter/201308))
-- Archived at [Rice Digital Scholarship Archive](https://scholarship.rice.edu/handle/1911/95553)
+Fifing. 2020. *Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng*. Bogor: Indonesia Defense University. 
 
 ---
 ### Bachelor's Degree
-Fifing. 2017. *Spatial conceptualizations in Kavalan*. Taipei: National Taiwan University. [pdf](https://howard-haowen.github.io/pdf/Jiang2006_Spatial-conceptualizations-in-Kavalan.pdf)
+Fifing. 2017. *Digital Image Processing Application Web-Based With Javascript and CSS*. Surakarta: Duta Bangsa University.
 
 ---
 ### Publications
-- Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020. Refugee Based Data Collection In Disaster Response, [*Journal of Defense*](https://jurnal.idu.ac.id/index.php/DefenseJournal/article/view/640/lulupdf), Vol.6 No.2, DOI: http://dx.doi.org/10.33172/jp.v6i2.640, 184-187. Bogor: Indonesia Defense University.
+- Fifing, Muhammad L. L. Usman & Asep A. Supriyadi, Luthfiyah Sakinah. 2020. Refugee Based Data Collection In Disaster Response, [*Journal of Defense*](https://jurnal.idu.ac.id/index.php/DefenseJournal/article/view/640/lulupdf), Vol.6 No.2, DOI: http://dx.doi.org/10.33172/jp.v6i2.640, 184-187. Bogor: Indonesia Defense University.
 
-- Fifing, Yudo Purnama, Muhammad L L Latif 2019. Mapping Flood-Prone Areas With The Normalized Difference Water Index Using Sentinel 2, [*Proceedings of Geodiversity National Seminar on Earth Sciences*](https://penerbit.brin.go.id/press/catalog/view/353/284/2003-1), ISBN 978-602-496-202-9, 165-170. Kebumen: The Indonesian Institute of Sciences (LIPI) and National Research and Innovation Agency (BRIN)
+- Fifing, Elvis, M. Faisal & I Wayan Warka. 2019. Increasing Marine Security In The Sunda Strait To Realize Indonesian Archipelago Sea Line 1 Control, [*Jakarta International Conference on Social Sciences and Humanities (JICoSSH)*](https://fifing3.github.io/pdf/JICoSSH.pdf), Jakarta: UPN “Veteran” Jakarta.
+
+- Fifing, Yudo Purnama & Muhammad L L Latif 2019. Mapping Flood-Prone Areas With The Normalized Difference Water Index Using Sentinel 2, [*Proceedings of Geodiversity National Seminar on Earth Sciences*](https://penerbit.brin.go.id/press/catalog/view/353/284/2003-1), ISBN 978-602-496-202-9, 165-170. Kebumen: The Indonesian Institute of Sciences (LIPI) and National Research and Innovation Agency (BRIN)
+
+- Fifing & All Member Sensing Technology. 2019. The Concept of Using Unmanned Aircraft to Support Interoperability of Joint Operations Three of TNI Unit in West Borneo, [*3rd Indonesia International Defense Science*](http://www.iidss.org/proceeding/), ISBN 978-602-496-202-9, 165-170. Jakarta: Ministry of Defense
 
 - Fifing. 2019. Expert system for the detection of health problems due to Smartphone Use, [*OISAA Journal of Indonesia Emas*](https://ejournal.ppi.id/index.php/oisaa/article/view/36), E-ISSN 2615-675X, 7-14. Indonesia: Overseas Indonesian Students' Association Alliance (PPI SeDunia).
 
-- Fifing, Hanum Shirotu Nida, Adib Hermawan. 2019. Monitoring water surface changes of wetlands using Fuzzy K-Means Algorithm with Sentinel-1 SAR Data, [*The 6th Annual Scientific Meeting On Disaster Research 2019*](https://fifing3.github.io/pdf/icdm1.pdf), ISSN 978-602-5808-43-2, 331-339. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University (IDU).
+- Fifing, Hanum Shirotu Nida & Adib Hermawan. 2019. Monitoring water surface changes of wetlands using Fuzzy K-Means Algorithm with Sentinel-1 SAR Data, [*The 6th Annual Scientific Meeting On Disaster Research 2019*](https://fifing3.github.io/pdf/icdm1.pdf), ISSN 978-602-5808-43-2, 331-339. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University (IDU).
 
-- Fifing, Ferry D Batu Bara, Rizky Amelia and Bita Parga Zen. 2019. Indonesia Disaster Watch With Satellite Imagery, [*The 6th Annual Scientific Meeting On Disaster Research 2019*](https://www.researchgate.net/publication/337705890_Utilization_of_Social_Media_in_Flood_Disaster_Preparedness_by_the_Disaster_Alert_Village_in_Semarang_City), ISSN 978-602-5808-43-2, 269-276. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University(IDU).
+- Fifing, Ferry D Batu Bara, Rizky Amelia & Bita Parga Zen. 2019. Indonesia Disaster Watch With Satellite Imagery, [*The 6th Annual Scientific Meeting On Disaster Research 2019*](https://www.researchgate.net/publication/337705890_Utilization_of_Social_Media_in_Flood_Disaster_Preparedness_by_the_Disaster_Alert_Village_in_Semarang_City), ISSN 978-602-5808-43-2, 269-276. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University(IDU).
 
 - Fifing, Rudy A. G. Gultom, Boby M. Pratama & Garnis Anggraeni. 2018. Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng, [*2nd Borneo International. Conference on Applied. Mathematics and Engineering. (BICAME 2018)*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Balikpapan: Borneo Institute of Technology.
 
@@ -39,8 +40,6 @@ Fifing. 2017. *Spatial conceptualizations in Kavalan*. Taipei: National Taiwan U
 ## Manuscript
 - Fifing. 2022. Guidebook for Admin HMS RODD.[pdf](https://fifing3.github.io/pdf/Guide-Book-HMS-RODD.pdf), PT Hanjaya Mandala Sampoerna Tbk. Jakarta - Indonesia
 - Fifing. 2020. e-Learning Guidebook for Students.[pdf](https://fifing3.github.io/pdf/e-learning-for-student.pdf), Yayasan Minhajul Haq. Purwakarta - Indonesia
-
-
 
 
 ---
