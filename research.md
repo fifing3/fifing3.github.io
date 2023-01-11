@@ -10,11 +10,11 @@
 
 ---
 ### Master's Degrees
-Fifing. 2020. *Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng*. Bogor: Indonesia Defense University. 
+Fifing. 2020. *Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng*.[*Private Request*](), Bogor: Indonesia Defense University. 
 
 ---
 ### Bachelor's Degree
-Fifing. 2017. *Digital Image Processing Application Web-Based With Javascript and CSS*. Surakarta: Duta Bangsa University.
+Fifing. 2017. *Digital Image Processing Application Web-Based With Javascript and CSS*.[*Private Request*](), Surakarta: Duta Bangsa University.
 
 ---
 ### Publications
