@@ -17,13 +17,15 @@ Jiang, Haowen. 2016. *Nominalization and possession in Formosan languages*. Hous
 
 ---
 ### Bachelor's Degree
-Jiang, Haowen. 2006. *Spatial conceptualizations in Kavalan*. Taipei: National Taiwan University. [pdf](https://howard-haowen.github.io/pdf/Jiang2006_Spatial-conceptualizations-in-Kavalan.pdf)
+Fifing. 2017. *Spatial conceptualizations in Kavalan*. Taipei: National Taiwan University. [pdf](https://howard-haowen.github.io/pdf/Jiang2006_Spatial-conceptualizations-in-Kavalan.pdf)
 
 ---
 ### Publications
 - Fifing, Muhammad L. L. Usman, Asep A. Supriyadi, Luthfiyah Sakinah. 2020. Refugee Based Data Collection In Disaster Response, [*Journal of Defense*](https://jurnal.idu.ac.id/index.php/DefenseJournal/article/view/640/lulupdf), Vol.6 No.2, DOI: http://dx.doi.org/10.33172/jp.v6i2.640, 184-187. Bogor: Indonesia Defense University.
 
 - Fifing, Yudo Purnama, Muhammad L L Latif 2019. Mapping Flood-Prone Areas With The Normalized Difference Water Index Using Sentinel 2, [*Proceedings of Geodiversity National Seminar on Earth Sciences*](https://penerbit.brin.go.id/press/catalog/view/353/284/2003-1), ISBN 978-602-496-202-9, 165-170. Kebumen: The Indonesian Institute of Sciences (LIPI) and National Research and Innovation Agency (BRIN)
+
+- Fifing. 2019. Expert system for the detection of health problems due to Smartphone Use, [*OISAA Journal of Indonesia Emas*](https://ejournal.ppi.id/index.php/oisaa/article/view/36), E-ISSN 2615-675X, 7-14. Indonesia: Overseas Indonesian Students' Association Alliance (PPI SeDunia).
 
 - Fifing, Hanum Shirotu Nida, Adib Hermawan. 2019. Monitoring water surface changes of wetlands using Fuzzy K-Means Algorithm with Sentinel-1 SAR Data, [*The 6th Annual Scientific Meeting On Disaster Research 2019*](https://fifing3.github.io/pdf/icdm1.pdf), ISSN 978-602-5808-43-2, 331-339. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University (IDU).
 
