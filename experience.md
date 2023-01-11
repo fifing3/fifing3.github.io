@@ -11,7 +11,7 @@
 
 
 - IT Database Administrator [PT Hanjaya Mandala Sampoerna Tbk](https://www.sampoerna.com/), Jakarta - Indonesia, Present
-- IT Specialists [Yayasan Minjaul Haq](https://minhajulhaq.sch.id/), Purwakarta - Indonesia, 2022
+- IT Specialists [Yayasan Minhajul Haq](https://minhajulhaq.sch.id/), Purwakarta - Indonesia, 2022
 - Research and Development [Technology Study Center](https://www.idu.ac.id/), Indonesia Defense University, Bogor - Indonesia 2020
 - Freelance Web Development [Universitas Duta Bangsa](https://udb.ac.id/), Surakarta - Indonesia, 2017
 - Staff Administrasi [Ritel Minimarket](https://fifing3.github.io/), Surakarta - Indonesia, 2016
