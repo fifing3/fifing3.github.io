@@ -6,11 +6,11 @@
 
 - Fifing. 2022. "HMS RODD Application", presented  at the panel on [*Topics in the Workshop Retail On Demand Delivery (RODD) Application*](https://www.sampoerna.com/) PT Hanjaya Mandala Sampoerna Tbk. Jakarta - Indonesia
 
-- Fifing. 2021. "Grand Design e-Pesantren 4.0", presented at the panel on [*Topics in the Grand Design e-Pesantren 4.0*] at the Yayasan Minhajul Haq, Purwakarta - Indonesia
+- Fifing. 2021. "Grand Design e-Pesantren 4.0", presented at the panel on [*Topics in the Grand Design e-Pesantren 4.0*](https://minhajulhaq.sch.id/) at the Yayasan Minhajul Haq, Purwakarta - Indonesia
 
 - Fifing. 2020. "E-learning Aplication for Studies", presented at the panel on [*Topics in the Workshop E-learning Aplication for Studies*](https://minhajulhaq.sch.id/) at the Yayasan Minhajul Haq, Purwakarta - Indonesia
 
-- Fifing, Yudo Purnama & Muhammad L L Latif 2019. "Mapping Flood-Prone Areas With The Normalized Difference Water Index Using Sentinel 2", [*Proceedings of Geodiversity National Seminar on Earth Sciences*](https://geodiversity.lipi.go.id/senailbum), Kebumen: The Indonesian Institute of Sciences (LIPI) and National Research and Innovation Agency (BRIN)
+- Fifing, Yudo Purnama & Muhammad L L Latif 2019. "Mapping Flood-Prone Areas With The Normalized Difference Water Index Using Sentinel 2", presented at the [*Proceedings of Geodiversity National Seminar on Earth Sciences*](https://geodiversity.lipi.go.id/senailbum), Kebumen: The Indonesian Institute of Sciences (LIPI) and National Research and Innovation Agency (BRIN)
 
 - Fifing, Hanum Shirotu Nida & Adib Hermawan. 2019. "Monitoring water surface changes of wetlands using Fuzzy K-Means Algorithm with Sentinel-1 SAR Data", presented at the [*The 6th Annual Scientific Meeting On Disaster Research 2019*](), Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University (IDU).
 
