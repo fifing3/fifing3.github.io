@@ -32,6 +32,10 @@ Fifing. 2017. *Digital Image Processing Application Web-Based With Javascript an
 
 - Fifing, Ferry D Batu Bara, Rizky Amelia & Bita Parga Zen. 2019. Indonesia Disaster Watch With Satellite Imagery, [*The 6th Annual Scientific Meeting On Disaster Research 2019*](https://www.researchgate.net/publication/337705890_Utilization_of_Social_Media_in_Flood_Disaster_Preparedness_by_the_Disaster_Alert_Village_in_Semarang_City), ISSN 978-602-5808-43-2, 269-276. Bogor: National Agency for Disaster Management (BNPB) and Indonesia Defense University(IDU).
 
+- Fifing, Muhammad L L Latif & Faisol A Kharis 2018."VoIP and email servers for local communication at the natural disaster site", [*1st ICIRPE. International Conference on Industrial Revolution For Polytechnic Education 2018*](http://semnastek.polinema.ac.id/poltexxpo/), Malang: State Polytechnic of Malang.
+
+- Fifing & All Member Sensing Technology." Design and Concept of Remote Control Network For Military Vehicle", [*1st ICIRPE. International Conference on Industrial Revolution For Polytechnic Education 2018*](http://semnastek.polinema.ac.id/poltexxpo/), Malang: State Polytechnic of Malang.
+
 - Fifing, Rudy A. G. Gultom, Boby M. Pratama & Garnis Anggraeni. 2018. Application of remote sensing monitoring of limestone mining exploitation in Mountain Kendeng, [*2nd Borneo International. Conference on Applied. Mathematics and Engineering. (BICAME 2018)*](https://ieeexplore.ieee.org/document/9084608), ISBN:978-1-5386-7726-1, 184-187. DOI: 10.1109/BICAME45512.2018.1570495527. Balikpapan: Borneo Institute of Technology.
 
 - Fifing. 2017. Remote Sensing Application for Monitoring Illegal Logging Practices and Forest Land Change (Case Study: Blora District Forest), [*1st GEOTIK: The Proceedings of National Geotik Seminar "The Role of Information Technology and Geography in Achieving National Resilience"*](https://publikasiilmiah.ums.ac.id/bitstream/handle/11617/9090/geotik2017_15.pdf?sequence=1&isAllowed=y),  ISSN:2580-8796, 117-122. Surakarta: Muhammadiyah University of Surakarta (UMS).
